@@ -349,3 +349,10 @@ footer {
         max-width: 680px;
     }
 }
+
+
+@media only screen and (max-device-width: 1366px) {
+    .image-section {
+        background-attachment: scroll;
+    }
+}
